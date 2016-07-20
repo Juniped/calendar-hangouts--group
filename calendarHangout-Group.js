@@ -34,7 +34,6 @@ function moveHangoutLinks() {
                 total ++;
                 numDone ++;
               }
-  
           }
           done.push(numDone);
       } else {
